@@ -1,3 +1,3 @@
 # SimpleExercise
 
-Simple lab work
+A simple lab work
